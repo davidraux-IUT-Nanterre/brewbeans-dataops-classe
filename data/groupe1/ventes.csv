@@ -1,0 +1,44 @@
+transaction_id,date,magasin,produit,montant_eur
+BB-001,2026-10-20,Paris,Espresso,2.5
+BB-002,2026-10-20,Lyon,Formule déjeuner,11.9
+BB-003,2026-10-20,Bordeaux,Cookie,3.1
+BB-004,2026-10-20,Paris,Cappuccino,4.5
+BB-005,2026-10-20,Lyon,Commande groupe,31.5
+BB-006,2026-10-20,Bordeaux,Sandwich,9.5
+BB-007,2026-10-20,Paris,Latte,4.8
+BB-008,2026-10-21,Lyon,Cappuccino,4.2
+BB-009,2026-10-21,Bordeaux,Commande groupe,26.4
+BB-010,2026-10-21,Paris,Sandwich,8.9
+BB-011,2026-10-21,Lyon,Latte,5.5
+BB-012,2026-10-21,Bordeaux,Espresso,3.2
+BB-013,2026-10-21,Paris,Formule déjeuner,11.9
+BB-014,2026-10-21,Lyon,Cookie,2.8
+BB-015,2026-10-22,Bordeaux,Latte,5.2
+BB-016,2026-10-22,Paris,Espresso,3.0
+BB-017,2026-10-22,Lyon,Formule déjeuner,14.9
+BB-018,2026-10-22,Bordeaux,Cookie,3.5
+BB-019,2026-10-22,Paris,Cappuccino,4.2
+BB-020,2026-10-22,Lyon,Commande groupe,23.5
+BB-021,2026-10-22,Bordeaux,Sandwich,8.9
+BB-022,2026-10-23,Paris,Cookie,3.1
+BB-023,2026-10-23,Lyon,Cappuccino,4.8
+BB-024,2026-10-23,Bordeaux,Commande groupe,31.5
+BB-025,2026-10-23,Paris,Sandwich,7.5
+BB-026,2026-10-23,Lyon,Latte,4.8
+BB-027,2026-10-23,Bordeaux,Espresso,3.0
+BB-028,2026-10-23,Paris,Formule déjeuner,12.5
+BB-029,2026-10-24,Lyon,Sandwich,9.5
+BB-030,2026-10-24,Bordeaux,Latte,5.5
+BB-031,2026-10-24,Paris,Espresso,2.5
+BB-032,2026-10-24,Lyon,Formule déjeuner,11.9
+BB-033,2026-10-24,Bordeaux,Cookie,3.1
+BB-034,2026-10-24,Paris,Cappuccino,4.5
+BB-035,2026-10-24,Lyon,Commande groupe,31.5
+BB-036,2026-10-25,Bordeaux,Formule déjeuner,14.9
+BB-037,2026-10-25,Paris,Cookie,2.8
+BB-038,2026-10-25,Lyon,Cappuccino,4.2
+BB-039,2026-10-25,Bordeaux,Commande groupe,26.4
+BB-040,2026-10-25,Paris,Sandwich,8.9
+BB-041,2026-10-26,Paris,Commande groupe,40.0
+BB-042,2026-10-26,Paris,Formule déjeuner,12.5
+BB-043,2026-10-26,Paris,Sandwich,8.9
