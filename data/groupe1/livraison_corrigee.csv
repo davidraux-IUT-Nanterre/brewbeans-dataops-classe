@@ -1,0 +1,4 @@
+transaction_id,date,magasin,produit,montant_eur
+BB-041,2026-10-26,Paris,Commande groupe,40.00
+BB-042,2026-10-26,Paris,Formule déjeuner,12.50
+BB-043,2026-10-26,Paris,Sandwich,8.90
